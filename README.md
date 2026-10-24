@@ -69,6 +69,21 @@
 
 ## 飞为(Firefly)VPN的 IPLC、流媒体与 AI 测试记录
 
+### 历史截图的文字结果
+
+来源为本页已有的 MiaoKo 测速截图。图中时间为 **2026-07-16 01:14:26（CST）**，环境标注珠海联通 9Gbps，工具为喵速 4.7.0，32 线程。下表摘录部分节点并保留原图单位，未换算为 Mbps。
+
+| 节点（截图摘录） | TLS RTT | HTTPS 延迟 | 平均速度（原图单位） | 最高速度（原图单位） | 其他记录 |
+| --- | --- | --- | --- | --- | --- |
+| 香港0001 | 91ms | 434ms | 0.00B | 0.00B | UDP：Unknown；该次未测得有效吞吐 |
+| 香港0002 | 112ms | 802ms | 540.74MB | 614.18MB | UDP：FullCone |
+| 台湾0001 | 184ms | 1025ms | 92.61MB | 114.23MB | UDP：FullCone |
+| 新加坡0004 | 103ms | 979ms | 6.40KB | 64.00KB | UDP：Unknown；低速记录 |
+| 日本0001 | 132ms | 851ms | 58.38MB | 189.37MB | UDP：FullCone |
+| 美国0001 | 250ms | 990ms | 12.17MB | 25.83MB | UDP：FullCone |
+
+零速与低速原因未记录，不能只选高吞吐节点概括全网表现；该记录属于凌晨历史测试，不是当前晚高峰实测。完整结果保留在下方原图。
+
 ![飞为(Firefly)节点测速图](https://i.eoht.net/airport/firefly_speed.webp)
 
 ![飞为(Firefly)流媒体解锁图](https://i.eoht.net/airport/firefly_stream.webp)
