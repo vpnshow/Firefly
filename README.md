@@ -30,7 +30,7 @@
 
 ## 飞为(Firefly)VPN怎么样？IPLC、VLESS、流媒体与 AI 支持
 
-**飞为(Firefly)** 的公开介绍称其技术与运营团队有 8 年行业经验，采用 IPLC 专线与 VLESS 协议。按页面公开说明，全节点不限速。
+**飞为(Firefly)** 的公开介绍称其技术与运营团队有 8 年行业经验，提供 **6 Gbps 带宽**，采用 IPLC 专线与 VLESS 协议。按页面公开说明，全节点不限速。
 
 据机场介绍，节点提供原生 IP，支持 **YouTube、Netflix、Disney+、HBO** 等流媒体，同时兼容 **ChatGPT、Gemini、Meta AI** 等 AI 服务，并提供企业定制方案。实际节点状态可结合本页截图与自己的使用时段核对。
 
